@@ -382,5 +382,11 @@
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/x13org/x13binary",
     "available": true
+  },
+  {
+    "package": "RcppAsioExample",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppasioexample",
+    "available": true
   }
 ]
