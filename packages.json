@@ -102,6 +102,12 @@
     "available": true
   },
   {
+    "package": "RcppBenchmark",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppbenchmark",
+    "available": true
+  },
+  {
     "package": "RcppCCTZ",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppcctz",
