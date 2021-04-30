@@ -192,6 +192,12 @@
     "available": true
   },
   {
+    "package": "RcppKalman",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppkalman",
+    "available": true
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack",
