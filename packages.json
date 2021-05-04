@@ -264,6 +264,12 @@
     "available": true
   },
   {
+    "package": "RcppUTS",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcpputs",
+    "available": true
+  },
+  {
     "package": "RcppXts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppxts",
