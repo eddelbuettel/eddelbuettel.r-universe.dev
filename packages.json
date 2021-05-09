@@ -288,6 +288,12 @@
     "available": true
   },
   {
+    "package": "bbb",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/bbb",
+    "available": true
+  },
+  {
     "package": "binb",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/binb",
