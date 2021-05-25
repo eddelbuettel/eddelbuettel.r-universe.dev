@@ -266,7 +266,7 @@
   {
     "package": "RcppTomlPlusPlus",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/bbb",
+    "url": "https://github.com/eddelbuettel/rcpptomlplusplus",
     "available": true
   },
   {
@@ -303,6 +303,12 @@
     "package": "binb",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/binb",
+    "available": true
+  },
+  {
+    "package": "chshli",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/chshli",
     "available": true
   },
   {

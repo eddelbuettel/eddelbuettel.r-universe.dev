@@ -68,7 +68,8 @@ gitUrl <- function(p, o="eddelbuettel") sprintf("https://github.com/%s/%s", o, p
 #added <- list(data.frame(package="RcppLongLong", maintainer=M, url=gitUrl("rcpplonglong"), available=TRUE))
 #added <- list(data.frame(package="RcppUTS", maintainer=M, url=gitUrl("rcpputs"), available=TRUE))
 #added <- list(data.frame(package="bbb", maintainer=M, url=gitUrl("bbb"), available=TRUE))
-added <- list(data.frame(package="RcppTomlPlusPlus", maintainer=M, url=gitUrl("bbb"), available=TRUE))
+#added <- list(data.frame(package="RcppTomlPlusPlus", maintainer=M, url=gitUrl("bbb"), available=TRUE))
+added <- list(data.frame(package="chshli", maintainer=M, url=gitUrl("chshli"), available=TRUE))
 
 newall <- rbind(newall, rbindlist(added))
 
