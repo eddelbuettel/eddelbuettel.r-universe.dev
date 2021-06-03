@@ -306,6 +306,12 @@
     "available": true
   },
   {
+    "package": "ccptm",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/cook-county-tax-model",
+    "available": true
+  },
+  {
     "package": "chshli",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/chshli",
