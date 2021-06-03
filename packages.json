@@ -324,6 +324,12 @@
     "available": true
   },
   {
+    "package": "curse",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/curse",
+    "available": true
+  },
+  {
     "package": "dang",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/dang",
