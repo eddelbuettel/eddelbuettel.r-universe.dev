@@ -348,6 +348,12 @@
     "available": true
   },
   {
+    "package": "earthmovdist",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/earthmovdist",
+    "available": true
+  },
+  {
     "package": "gaussfacts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/gaussfacts",
