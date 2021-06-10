@@ -72,7 +72,8 @@ gitUrl <- function(p, o="eddelbuettel") sprintf("https://github.com/%s/%s", o, p
 #added <- list(data.frame(package="chshli", maintainer=M, url=gitUrl("chshli"), available=TRUE))
 #added <- list(data.frame(package="ccptm", maintainer=M, url=gitUrl("cook-county-tax-model"), available=TRUE))
 #added <- list(data.frame(package="curse", maintainer=M, url=gitUrl("curse"), available=TRUE))
-added <- list(data.frame(package="earthmovdist", maintainer=M, url=gitUrl("earthmovdist"), available=TRUE))
+#added <- list(data.frame(package="earthmovdist", maintainer=M, url=gitUrl("earthmovdist"), available=TRUE))
+added <- list(data.frame(package="lwplot", maintainer=M, url=gitUrl("lwplot"), available=TRUE))
 
 newall <- rbind(newall, rbindlist(added))
 

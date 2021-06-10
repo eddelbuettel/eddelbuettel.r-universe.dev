@@ -396,6 +396,12 @@
     "available": true
   },
   {
+    "package": "lwplot",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/lwplot",
+    "available": true
+  },
+  {
     "package": "nanotime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/nanotime",
