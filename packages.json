@@ -402,6 +402,12 @@
     "available": true
   },
   {
+    "package": "minm",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/minm",
+    "available": true
+  },
+  {
     "package": "nanotime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/nanotime",
