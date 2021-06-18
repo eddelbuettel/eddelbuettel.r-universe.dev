@@ -76,7 +76,8 @@ gitUrl <- function(p, o="eddelbuettel") sprintf("https://github.com/%s/%s", o, p
 #added <- list(data.frame(package="lwplot", maintainer=M, url=gitUrl("lwplot"), available=TRUE))
 #added <- list(data.frame(package="minm", maintainer=M, url=gitUrl("minm"), available=TRUE))
 #added <- list(data.frame(package="plr", maintainer=M, url=gitUrl("plr"), available=TRUE))
-added <- list(data.frame(package="winsorize", maintainer=M, url=gitUrl("winsorize"), available=TRUE))
+#added <- list(data.frame(package="winsorize", maintainer=M, url=gitUrl("winsorize"), available=TRUE))
+added <- list(data.frame(package="safy", maintainer=M, url=gitUrl("safy"), available=TRUE))
 
 newall <- rbind(newall, rbindlist(added))
 
