@@ -432,12 +432,6 @@
     "available": true
   },
   {
-    "package": "plr",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/plr",
-    "available": true
-  },
-  {
     "package": "prrd",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/prrd",
