@@ -390,6 +390,12 @@
     "available": true
   },
   {
+    "package": "ldasb",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ldlasb",
+    "available": true
+  },
+  {
     "package": "linl",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/linl",
