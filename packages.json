@@ -450,6 +450,12 @@
     "available": true
   },
   {
+    "package": "qlcal",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/qlcal/qlcal-r",
+    "available": true
+  },
+  {
     "package": "random",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/random",
