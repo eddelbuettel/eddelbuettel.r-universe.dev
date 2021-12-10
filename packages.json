@@ -65,12 +65,12 @@
     "url": "https://github.com/Rblp/Rblpapi",
     "available": true
   },
-  {
-    "package": "Rcpp",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/RcppCore/Rcpp",
-    "available": true
-  },
+  // {
+  //   "package": "Rcpp",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/RcppCore/Rcpp",
+  //   "available": true
+  // },
   {
     "package": "RcppAPT",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -83,12 +83,12 @@
     "url": "https://github.com/eddelbuettel/rcppannoy",
     "available": true
   },
-  {
-    "package": "RcppArmadillo",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/RcppCore/RcppArmadillo",
-    "available": true
-  },
+  // {
+  //   "package": "RcppArmadillo",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/RcppCore/RcppArmadillo",
+  //   "available": true
+  // },
   {
     "package": "RcppAsioExample",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -143,12 +143,12 @@
     "url": "https://github.com/eddelbuettel/rcppdate",
     "available": true
   },
-  {
-    "package": "RcppEigen",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/RcppCore/RcppEigen",
-    "available": true
-  },
+  // {
+  //   "package": "RcppEigen",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/RcppCore/RcppEigen",
+  //   "available": true
+  // },
   {
     "package": "RcppExamples",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
