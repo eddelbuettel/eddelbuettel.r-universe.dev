@@ -426,6 +426,12 @@
     "available": true
   },
   {
+    "package": "narrow",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/narrow",
+    "available": true
+  },
+  {
     "package": "pinp",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/pinp",
