@@ -78,7 +78,7 @@
     "available": true
   },
   {
-    "package": "rcpparrow",
+    "package": "RcppArrow",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcpparrow",
     "available": true
