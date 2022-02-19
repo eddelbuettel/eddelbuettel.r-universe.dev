@@ -78,6 +78,12 @@
     "available": true
   },
   {
+    "package": "rcpparrow",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcpparrow",
+    "available": true
+  },
+  {
     "package": "RcppAnnoy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppannoy",
