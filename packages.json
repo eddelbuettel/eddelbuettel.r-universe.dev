@@ -347,12 +347,12 @@
     "url": "https://github.com/eddelbuettel/dang",
     "available": true
   },
-  {
-    "package": "delaunay",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/delaunay",
-    "available": true
-  },
+  // {
+  //   "package": "delaunay",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/delaunay",
+  //   "available": true
+  // },
   {
     "package": "digest",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
