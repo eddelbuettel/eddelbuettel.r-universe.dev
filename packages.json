@@ -59,12 +59,12 @@
     "url": "https://github.com/eddelbuettel/rvowpalwabbit",
     "available": true
   },
-  {
-    "package": "Rblpapi",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/Rblp/Rblpapi",
-    "available": true
-  },
+  // {
+  //   "package": "Rblpapi",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/Rblp/Rblpapi",
+  //   "available": true
+  // },
   // {
   //   "package": "Rcpp",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -467,12 +467,12 @@
     "url": "https://github.com/eddelbuettel/prrd",
     "available": true
   },
-  {
-    "package": "qlcal",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/qlcal/qlcal-r",
-    "available": true
-  },
+  // {
+  //   "package": "qlcal",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/qlcal/qlcal-r",
+  //   "available": true
+  // },
   {
     "package": "random",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
