@@ -245,12 +245,12 @@
     "url": "https://github.com/eddelbuettel/rcppredis",
     "available": true
   },
-  {
-    "package": "RcppSMC",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/rcppsmc/rcppsmc",
-    "available": true
-  },
+  // {
+  //   "package": "RcppSMC",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/rcppsmc/rcppsmc",
+  //   "available": true
+  // },
   {
     "package": "RcppSimdJson",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -329,12 +329,12 @@
     "url": "https://github.com/eddelbuettel/chshli",
     "available": true
   },
-  {
-    "package": "corels",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/corels/rcppcorels",
-    "available": true
-  },
+  // {
+  //   "package": "corels",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/corels/rcppcorels",
+  //   "available": true
+  // },
   {
     "package": "curse",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
