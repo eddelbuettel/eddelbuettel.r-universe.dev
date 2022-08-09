@@ -78,9 +78,9 @@
     "available": true
   },
   {
-    "package": "RcppArrow",
+    "package": "RcppNarrow",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/rcpparrow",
+    "url": "https://github.com/eddelbuettel/rcppnarrow",
     "available": true
   },
   {
