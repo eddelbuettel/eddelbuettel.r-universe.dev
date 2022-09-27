@@ -532,11 +532,11 @@
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/winsorize",
     "available": true
-  },
-  {
-    "package": "x13binary",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/x13org/x13binary",
-    "available": true
+  // },
+  // {
+  //   "package": "x13binary",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/x13org/x13binary",
+  //   "available": true
   }
 ]
