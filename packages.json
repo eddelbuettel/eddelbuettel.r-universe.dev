@@ -1,5 +1,11 @@
 [
   {
+    "package": "arch",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/arch",
+    "available": true
+  },
+  {
     "package": "AsioHeaders",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/asioheaders",
