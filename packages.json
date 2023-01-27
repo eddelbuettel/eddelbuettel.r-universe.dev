@@ -544,11 +544,24 @@
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/winsorize",
     "available": true
-  // },
+  },
+  {
+    "package": "tiledb",
+    "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
+    "url": "https://github.com/TileDB-Inc/TileDB-R",
+    "available": true
+  },
+  {
+    "package": "tiledbsoma",
+    "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+    "url": "https://github.com/single-cell-data/TileDB-SOMA",
+    "available": true,
+    "subdir": "apis/r"
+  }
   // {
   //   "package": "x13binary",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
   //   "url": "https://github.com/x13org/x13binary",
   //   "available": true
-  }
+  // }
 ]
