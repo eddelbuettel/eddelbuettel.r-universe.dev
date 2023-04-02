@@ -144,6 +144,12 @@
     "available": true
   },
   {
+    "package": "RcppDA",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppda",
+    "available": true
+  },
+  {
     "package": "RcppDE",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppde",
