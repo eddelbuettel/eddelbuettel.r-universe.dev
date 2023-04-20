@@ -53,12 +53,12 @@
     "url": "https://github.com/eddelbuettel/rpushbullet",
     "available": true
   },
-  {
-    "package": "RQuantLib",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/rquantlib",
-    "available": true
-  },
+  // {
+  //   "package": "RQuantLib",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/rquantlib",
+  //   "available": true
+  // },
   {
     "package": "RVowpalWabbit",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
