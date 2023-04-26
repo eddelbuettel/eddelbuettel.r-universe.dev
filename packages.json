@@ -384,6 +384,12 @@
     "available": true
   },
   {
+    "package": "dtts",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/dtts",
+    "available": true
+  },
+  {
     "package": "earthmovdist",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/earthmovdist",
