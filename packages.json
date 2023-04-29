@@ -569,12 +569,18 @@
     "url": "https://github.com/TileDB-Inc/TileDB-R",
     "available": true
   },
+  //{
+  //  "package": "tiledbsoma",
+  //  "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+  //  "url": "https://github.com/single-cell-data/TileDB-SOMA",
+  //  "available": true,
+  //  "subdir": "apis/r"
+  //},
   {
     "package": "tiledbsoma",
     "maintainer": "Aaron Wolen <aaron@tiledb.com>",
-    "url": "https://github.com/single-cell-data/TileDB-SOMA",
-    "available": true,
-    "subdir": "apis/r"
+    "url": "https://github.com/eddelbuettel/tldbsm",
+    "available": true
   }
   // {
   //   "package": "x13binary",
