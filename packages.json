@@ -354,6 +354,12 @@
   //   "available": true
   // },
   {
+    "package": "crc32c",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/crc32c",
+    "available": true
+  },
+  {
     "package": "curse",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/curse",
