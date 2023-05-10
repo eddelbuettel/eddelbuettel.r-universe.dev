@@ -582,11 +582,18 @@
   //  "available": true,
   //  "subdir": "apis/r"
   //},
+  // {
+  //   "package": "tiledbsoma",
+  //   "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+  //   "url": "https://github.com/eddelbuettel/tldbsm",
+  //   "available": true
+  // }
   {
     "package": "tiledbsoma",
     "maintainer": "Aaron Wolen <aaron@tiledb.com>",
-    "url": "https://github.com/eddelbuettel/tldbsm",
-    "available": true
+    "url": "https://github.com/eddelbuettel/tldbsm2",
+    "available": true,
+    "subdir": "apis/r"
   }
   // {
   //   "package": "x13binary",
