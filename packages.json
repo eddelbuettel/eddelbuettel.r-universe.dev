@@ -569,13 +569,13 @@
     "url": "https://github.com/eddelbuettel/winsorize",
     "available": true
   },
-  {
-     "package": "tiledb",
-     "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
-     "url": "https://github.com/TileDB-Inc/TileDB-R",
-  //   //"branch": "https://github.com/TileDB-Inc/TileDB-R/tree/de/sc-31622/release_0.20.0",
-     "available": true
-  },
+  // {
+  //    "package": "tiledb",
+  //    "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
+  //    "url": "https://github.com/TileDB-Inc/TileDB-R",
+  // //   //"branch": "https://github.com/TileDB-Inc/TileDB-R/tree/de/sc-31622/release_0.20.0",
+  //    "available": true
+  // },
   {
     "package": "tiledbsoma",
     "maintainer": "Aaron Wolen <aaron@tiledb.com>",
