@@ -84,12 +84,6 @@
     "available": true
   },
   {
-    "package": "RcppNarrow",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/rcppnarrow",
-    "available": true
-  },
-  {
     "package": "RcppAnnoy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppannoy",
@@ -216,6 +210,12 @@
     "available": true
   },
   {
+    "package": "RcppInt64",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppint64",
+    "available": true
+  },
+  {
     "package": "RcppIconvExample",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppiconvexample",
@@ -243,6 +243,12 @@
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack",
+    "available": true
+  },
+  {
+    "package": "RcppNarrow",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppnarrow",
     "available": true
   },
   {
