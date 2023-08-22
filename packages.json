@@ -59,12 +59,12 @@
     "url": "https://github.com/eddelbuettel/rquantlib",
     "available": true
   },
-  {
-    "package": "RVowpalWabbit",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/rvowpalwabbit",
-    "available": true
-  },
+  // {
+  //   "package": "RVowpalWabbit",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/rvowpalwabbit",
+  //   "available": true
+  // },
   // {
   //   "package": "Rblpapi",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
