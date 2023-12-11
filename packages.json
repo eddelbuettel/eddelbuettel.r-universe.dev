@@ -564,6 +564,12 @@
     "available": true
   },
   {
+    "package": "tinythemes",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/tinythemes",
+    "available": true
+  },
+  {
     "package": "ttdo",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/ttdo",
