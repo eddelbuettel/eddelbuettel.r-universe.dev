@@ -353,6 +353,12 @@
     "url": "https://github.com/eddelbuettel/chshli",
     "available": true
   },
+  {
+    "package": "ciw",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ciw",
+    "available": true
+  },
   // {
   //   "package": "corels",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
