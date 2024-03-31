@@ -582,6 +582,12 @@
     "available": true
   },
   {
+    "package": "ulid",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/ulid",
+    "available": true
+  },
+  {
     "package": "winsorize",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/winsorize",
