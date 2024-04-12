@@ -600,7 +600,7 @@
      //"branch": "https://github.com/TileDB-Inc/TileDB-R/tree/de/sc-31622/release_0.20.0",
      //"branch": "0.25.0",
      "available": true
-  },
+  }
   // {
   //   "package": "tiledbsoma",
   //   "maintainer": "Aaron Wolen <aaron@tiledb.com>",
