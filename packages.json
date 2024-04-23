@@ -473,13 +473,13 @@
     "url": "https://github.com/eddelbuettel/minm",
     "available": true
   },
-  {
-    "package": "mlpack",
-    "maintainer": "Ryan Curtin <ryan@ratml.org>",
-    "url": "https://github.com/mlpack/mlpack",
-    "subdir": "src/mlpack/bindings/R/mlpack",
-    "available": true
-  },
+  // {
+  //   "package": "mlpack",
+  //   "maintainer": "Ryan Curtin <ryan@ratml.org>",
+  //   "url": "https://github.com/mlpack/mlpack",
+  //   "subdir": "src/mlpack/bindings/R/mlpack",
+  //   "available": true
+  // },
   {
     "package": "nanotime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
