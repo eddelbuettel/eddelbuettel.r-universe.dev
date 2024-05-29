@@ -607,6 +607,14 @@
      //"branch": "https://github.com/TileDB-Inc/TileDB-R/tree/de/sc-31622/release_0.20.0",
      //"branch": "0.25.0",
      "available": true
+  },
+  {
+     "package": "cellxgene.census",
+     "maintainer": "Chan Zuckerberg Initiative Foundation <soma@chanzuckerberg.com>",
+     "url": "https://github.com/chanzuckerberg/cellxgene-census",
+     "branch": "*release",
+     "subdir": "api/r/cellxgene.census"
+     "available": true
   }
   // {
   //   "package": "tiledbsoma",
