@@ -609,20 +609,20 @@
      "available": true
   },
   {
+      "package": "tiledbsoma",
+      "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+      "url": "https://github.com/single-cell-data/TileDB-SOMA",
+      "available": true,
+      "subdir": "apis/r"
+  },
+  {
      "package": "cellxgene.census",
      "maintainer": "Chan Zuckerberg Initiative Foundation <soma@chanzuckerberg.com>",
      "url": "https://github.com/chanzuckerberg/cellxgene-census",
      "branch": "*release",
-     "subdir": "api/r/cellxgene.census"
-     "available": true
+      "subdir": "api/r/cellxgene.census",
+      "available": true
   }
-  // {
-  //   "package": "tiledbsoma",
-  //   "maintainer": "Aaron Wolen <aaron@tiledb.com>",
-  //   "url": "https://github.com/single-cell-data/TileDB-SOMA",
-  //   "available": true,
-  //   "subdir": "apis/r"
-  // }
   // {
   //   "package": "tiledbsoma",
   //   "maintainer": "Aaron Wolen <aaron@tiledb.com>",
