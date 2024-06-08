@@ -1,10 +1,10 @@
 [
-  {
-    "package": "arch",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/arch",
-    "available": true
-  },
+  // {
+  //   "package": "arch",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/arch",
+  //   "available": true
+  // },
   {
     "package": "AsioHeaders",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -486,12 +486,12 @@
     "url": "https://github.com/eddelbuettel/nanotime",
     "available": true
   },
-  {
-    "package": "narrow",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/narrow",
-    "available": true
-  },
+  // {
+  //   "package": "narrow",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/narrow",
+  //   "available": true
+  // },
   {
     "package": "pinp",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
