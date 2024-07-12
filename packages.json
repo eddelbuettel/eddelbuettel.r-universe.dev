@@ -461,12 +461,12 @@
     "url": "https://github.com/eddelbuettel/littler",
     "available": true
   },
-  {
-    "package": "lwplot",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/lwplot",
-    "available": true
-  },
+  // {
+  //   "package": "lwplot",
+  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+  //   "url": "https://github.com/eddelbuettel/lwplot",
+  //   "available": true
+  // },
   {
     "package": "minm",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
