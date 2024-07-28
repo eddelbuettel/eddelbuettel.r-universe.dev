@@ -240,6 +240,12 @@
     "available": true
   },
   {
+    "package": "RcppMagicEnum",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rcppmagicenum",
+    "available": true
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack",
