@@ -1,4 +1,10 @@
 [
+  {
+    "package": "apollo13",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/apollo13",
+    "available": true
+  },
   // {
   //   "package": "arch",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
