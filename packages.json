@@ -71,12 +71,13 @@
   //   "url": "https://github.com/eddelbuettel/rvowpalwabbit",
   //   "available": true
   // },
-  // {
-  //   "package": "Rblpapi",
-  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-  //   "url": "https://github.com/Rblp/Rblpapi",
-  //   "available": true
-  // },
+  {
+      "package": "Rblpapi",
+      "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+      "url": "https://github.com/Rblp/Rblpapi",
+      "available": true,
+      "branch": "feature/release_3.24.6.1"
+  },
   // {
   //   "package": "Rcpp",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
