@@ -372,12 +372,12 @@
     "url": "https://github.com/eddelbuettel/ciw",
     "available": true
   },
-  {
-    "package": "colorout",
-    "maintainer": "Jakson Alves de Aquino <jalvesaq@gmail.com>",
-    "url": "https://github.com/jalvesaq/colorout/",
-    "available": true
-  },
+  // {
+  //   "package": "colorout",
+  //   "maintainer": "Jakson Alves de Aquino <jalvesaq@gmail.com>",
+  //   "url": "https://github.com/jalvesaq/colorout/",
+  //   "available": true
+  // },
   // {
   //   "package": "corels",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
