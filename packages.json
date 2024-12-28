@@ -535,6 +535,12 @@
     "url": "https://github.com/eddelbuettel/prrd",
     "available": true
   },
+  {
+    "package": "naarma",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/naarma",
+    "available": true
+  },
   // {
   //   "package": "qlcal",
   //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
