@@ -624,7 +624,7 @@
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/winsorize",
     "available": true
-  }
+  },
   // {
   //    "package": "tiledb",
   //    "maintainer": "Dirk Eddelbuettel <dirk@tiledb.com>",
@@ -673,4 +673,11 @@
   //   "url": "https://github.com/x13org/x13binary",
   //   "available": true
   // }
+  {
+    "package": "zigg",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/zigg",
+    "available": true
+  }
+
 ]
