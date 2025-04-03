@@ -578,10 +578,10 @@
     "available": true
   },
   {
-      "package": "sampleTestPackage",
-      "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-      "url": "https://github.com/eddelbuettel/sampletestpackage",
-      "available": true
+    "package": "sampleTestPackage",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/sampletestpackage",
+    "available": true
   },
   {
     "package": "spdl",
