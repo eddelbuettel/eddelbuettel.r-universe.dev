@@ -415,10 +415,11 @@
   //   "available": true
   // },
   {
-    "package": "digest",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/digest",
-    "available": true
+      "package": "digest",
+      "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+      "url": "https://github.com/eddelbuettel/digest",
+      "branch": "feature/arm64_warning",
+      "available": true
   },
   {
     "package": "drat",
