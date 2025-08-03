@@ -614,6 +614,12 @@
     "available": true
   },
   {
+    "package": "tinyqueue",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/tinyqueue",
+    "available": true
+  },
+  {
     "package": "tinythemes",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/tinythemes",
