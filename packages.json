@@ -253,6 +253,12 @@
     "available": true
   },
   {
+      "package": "rcppmlpackexamples",
+      "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+      "url": "https://github.com/eddelbuettel/rcppmlpack-examples",
+      "available": true
+  },
+  {
     "package": "RcppMsgPack",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppmsgpack",
