@@ -1,5 +1,11 @@
 [
   {
+    "package": "acane",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/acane",
+    "available": true
+  },
+  {
     "package": "apollo13",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/apollo13",
