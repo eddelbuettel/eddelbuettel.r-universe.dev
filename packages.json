@@ -710,6 +710,12 @@
   //   "available": true
   // }
   {
+    "package": "xptr",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/xptr",
+    "available": true
+  },
+  {
     "package": "zigg",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/zigg",
