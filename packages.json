@@ -29,12 +29,12 @@
     "url": "https://github.com/eddelbuettel/bh",
     "available": true
   },
-  {
-    "package": "birp",
-    "maintainer": "Madleina Caduff <madleina.caduff@unifr.ch>",
-    "url": "https://github.com/eddelbuettel/birpr",
-    "available": true
-  },
+  // {
+  //   "package": "birp",
+  //   "maintainer": "Madleina Caduff <madleina.caduff@unifr.ch>",
+  //   "url": "https://github.com/eddelbuettel/birpr",
+  //   "available": true
+  // },
   {
     "package": "RApiDatetime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
