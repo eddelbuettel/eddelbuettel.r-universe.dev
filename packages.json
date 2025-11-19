@@ -108,12 +108,13 @@
     "url": "https://github.com/eddelbuettel/rcppannoy",
     "available": true
   },
-  // {
-  //   "package": "RcppArmadillo",
-  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-  //   "url": "https://github.com/RcppCore/RcppArmadillo",
-  //   "available": true
-  // },
+  {
+      "package": "RcppArmadillo",
+      "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+      "url": "https://github.com/RcppCore/RcppArmadillo",
+      "branch": "feature/macos_openmp",
+      "available": true
+  },
   {
     "package": "RcppAsioExample",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
