@@ -112,7 +112,7 @@
       "package": "RcppArmadillo",
       "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
       "url": "https://github.com/RcppCore/RcppArmadillo",
-      "branch": "feature/macos_openmp",
+      "branch": "feature/openmp",
       "available": true
   },
   {
