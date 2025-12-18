@@ -122,6 +122,12 @@
     "available": true
   },
   {
+    "package": "RcppBandicoot",
+    "maintainer": "James Joseph Balamuta <balamut2@illinois.edu>",
+    "url": "https://github.com/coatless-rpkg/rcppbandicoot",
+    "available": true
+  },
+  {
     "package": "RcppBDT",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppbdt",
