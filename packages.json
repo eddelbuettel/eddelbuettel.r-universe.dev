@@ -121,12 +121,12 @@
     "url": "https://github.com/eddelbuettel/rcppasioexample",
     "available": true
   },
-  {
-    "package": "RcppBandicoot",
-    "maintainer": "James Joseph Balamuta <balamut2@illinois.edu>",
-    "url": "https://github.com/coatless-rpkg/rcppbandicoot",
-    "available": true
-  },
+  // {
+  //   "package": "RcppBandicoot",
+  //   "maintainer": "James Joseph Balamuta <balamut2@illinois.edu>",
+  //   "url": "https://github.com/coatless-rpkg/rcppbandicoot",
+  //   "available": true
+  // },
   {
     "package": "RcppBDT",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
@@ -181,12 +181,13 @@
     "url": "https://github.com/eddelbuettel/rcppdate",
     "available": true
   },
-  // {
-  //   "package": "RcppEigen",
-  //   "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-  //   "url": "https://github.com/RcppCore/RcppEigen",
-  //   "available": true
-  // },
+  {
+    "package": "RcppEigen",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/RcppCore/RcppEigen",
+    "branch": "feature/eigen-5.0.0"
+    "available": true
+  },
   {
     "package": "RcppExamples",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
