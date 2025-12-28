@@ -185,13 +185,7 @@
     "package": "RcppEigen",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/RcppCore/RcppEigen",
-    "branch": "feature/eigen-5.0.0",
-    "available": true
-  },
-  {
-    "package": "RcppEigen",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/coatless-rpkg/rcppeigen",
+    // "branch": "feature/eigen-5.0.0",
     "branch": "feature/openmp",
     "available": true
   },
