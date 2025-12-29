@@ -550,6 +550,13 @@
   //   "available": true
   // },
   {
+    "package": "ompdetect",
+    "maintainer": "Ivan Krylov <ikrylov@disroot.org>",
+    "url": "https://github.com/eddelbuettel/ompdetect",
+    "branch": "local/changes",
+    "available": true
+  },
+  {
     "package": "pinp",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/pinp",
