@@ -393,6 +393,12 @@
     "available": true
   },
   {
+    "package": "chronometre",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/chronometre-r",
+    "available": true
+  },
+  {
     "package": "chshli",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/chshli",
