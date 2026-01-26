@@ -480,8 +480,9 @@
     "package": "edgemodelr",
     "maintainer": "Pawan Rama Mali <prm@outlook.in>",
     "url": "https://github.com/PawanRamaMali/edgemodelr",
-    "branch": "fix-cran-additional-issues-20",
     "available": true
+    // "branch": "fix-cran-additional-issues-20",
+
   },
   {
     "package": "gaussfacts",
