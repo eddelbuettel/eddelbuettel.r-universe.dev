@@ -476,14 +476,13 @@
     "url": "https://github.com/eddelbuettel/earthmovdist",
     "available": true
   },
-  {
-    "package": "edgemodelr",
-    "maintainer": "Pawan Rama Mali <prm@outlook.in>",
-    "url": "https://github.com/PawanRamaMali/edgemodelr",
-    "available": true
-    // "branch": "fix-cran-additional-issues-20",
-
-  },
+  // {
+  //   "package": "edgemodelr",
+  //   "maintainer": "Pawan Rama Mali <prm@outlook.in>",
+  //   "url": "https://github.com/PawanRamaMali/edgemodelr",
+  //   "available": true
+  //   // "branch": "fix-cran-additional-issues-20",
+  // },
   {
     "package": "gaussfacts",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
