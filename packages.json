@@ -504,7 +504,7 @@
   {
     "package": "gunsales",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/NYTimes/gunsales",
+    "url": "https://github.com/eddelbuettel/gunsales",
     "available": true
   },
   {
