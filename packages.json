@@ -318,6 +318,7 @@
     "package": "RcppSimdJson",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppsimdjson",
+    "branch": "feature/macos13_cxx17",
     "available": true
   },
   {
