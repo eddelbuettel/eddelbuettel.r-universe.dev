@@ -189,12 +189,6 @@
   //   "available": true
   // },
   {
-    "package": "RcppEigen",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/RcppCore/RcppEigen",
-    "available": true
-  },
-  {
     "package": "RcppExamples",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppexamples",
