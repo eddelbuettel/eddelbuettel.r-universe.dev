@@ -324,7 +324,6 @@
     "package": "RcppSpdlog",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rcppspdlog",
-    "branch": "feature/std_format",
     "available": true
   },
   {
