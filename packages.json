@@ -630,6 +630,12 @@
     "available": true
   },
   {
+    "package": "rspdlite",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rspdlite",
+    "available": true
+  },
+  {
     "package": "safy",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/safy",
