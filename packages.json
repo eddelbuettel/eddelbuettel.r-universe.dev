@@ -696,6 +696,12 @@
     "available": true
   },
   {
+    "package": "tlexample",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+      "url": "https://github.com/eddelbuettel/tlexample",
+    "available": true
+  },
+  {
     "package": "ttdo",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/ttdo",
