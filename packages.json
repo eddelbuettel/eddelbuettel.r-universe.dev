@@ -618,6 +618,12 @@
     "available": true
   },
   {
+    "package": "rbenchmark",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/rbenchmark",
+    "available": true
+  },
+  {
     "package": "rfoaas",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/rfoaas",
