@@ -557,6 +557,18 @@
   //   "available": true
   // },
   {
+    "package": "mvalpha",
+    "maintainer": "Corie Drake <therealcfdrake@gmail.com>",
+    "url": "https://github.com/eddelbuettel/mvalpha",
+    "available": true
+  },
+  {
+    "package": "naarma",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/naarma",
+    "available": true
+  },
+  {
     "package": "nanotime",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/nanotime",
@@ -597,12 +609,6 @@
     "package": "prrd",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/prrd",
-    "available": true
-  },
-  {
-    "package": "naarma",
-    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-    "url": "https://github.com/eddelbuettel/naarma",
     "available": true
   },
   // {
