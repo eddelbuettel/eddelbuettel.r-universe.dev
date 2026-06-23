@@ -560,7 +560,6 @@
     "package": "mvalpha",
     "maintainer": "Corie Drake <therealcfdrake@gmail.com>",
     "url": "https://github.com/eddelbuettel/mvalpha",
-    "branch": "fix/macos",
     "available": true
   },
   {
