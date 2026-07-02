@@ -556,12 +556,12 @@
   //   "subdir": "src/mlpack/bindings/R/mlpack",
   //   "available": true
   // },
-  {
-    "package": "mvalpha",
-    "maintainer": "Corie Drake <therealcfdrake@gmail.com>",
-    "url": "https://github.com/eddelbuettel/mvalpha",
-    "available": true
-  },
+  // {
+  //   "package": "mvalpha",
+  //   "maintainer": "Corie Drake <therealcfdrake@gmail.com>",
+  //   "url": "https://github.com/eddelbuettel/mvalpha",
+  //   "available": true
+  // },
   {
     "package": "naarma",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
