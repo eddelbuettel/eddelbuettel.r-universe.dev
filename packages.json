@@ -684,6 +684,12 @@
     "available": true
   },
   {
+    "package": "tellme",
+    "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+    "url": "https://github.com/eddelbuettel/tellme",
+    "available": true
+  },
+  {
     "package": "tidyCpp",
     "maintainer": "Dirk Eddelbuettel <edd@debian.org>",
     "url": "https://github.com/eddelbuettel/tidycpp",
